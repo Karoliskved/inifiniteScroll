@@ -28,7 +28,7 @@ const App = () => {
     setNewPage(newPage + 1);
     setIsLoading(false);
     console.log("test");
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
       resolve(pictureData);
     });
   };
