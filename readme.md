@@ -16,3 +16,5 @@ Implemented features:
 Additional Notes
 Project was build using vite https://vitejs.dev/guide/
 If there are any problems running the app please let me know at kvedaraviciuskarolis@gmail.com
+
+This app is also hosted on github pages which you can view here: https://karoliskved.github.io/inifiniteScroll/
